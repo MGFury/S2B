@@ -1,13 +1,13 @@
 Certainly! Below is a sample GitHub README.md file for your S2B tool:
 
 ```markdown
-# S2B - Skin2Buy
+# S2B - Steam2Buff163
 
 ---
 
 ## Overview
 
-S2B (Skin2Buy) is a powerful tool designed to help you make informed decisions when purchasing CS:GO skins from the Steam Marketplace. It compares prices and provides advice on whether to buy the item and recommends the preferable platform—Steam or Buff.
+S2B (Steam2Buff163) is a powerful tool designed to help you make informed decisions when purchasing CS:GO skins from the Steam Marketplace. It compares prices and provides advice on whether to buy the item and recommends the preferable platform—Steam or Buff.
 
 ---
 

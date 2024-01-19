@@ -1,4 +1,4 @@
-**# S2B: Your CS:GO Skin Sensei **
+**# S2B: Your CS:GO Skin Sensei #**
 
 ## Tired of FOMO-fueled impulse buys and losing money on overpriced skins?
 
